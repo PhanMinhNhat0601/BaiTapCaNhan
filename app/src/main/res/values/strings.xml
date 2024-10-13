@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baitap_7_10_bottomnavviewpager2</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_list">List</string>
+    <string name="bottom_person">Person</string>
+    <string name="bottom_settings">Settings</string>
+</resources>
